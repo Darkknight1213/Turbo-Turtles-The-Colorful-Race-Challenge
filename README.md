@@ -27,7 +27,7 @@ Turbo Turtles is an exciting Python game that uses the `turtle` graphics library
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/turbo-turtles.git
+    git clone https://github.com/Darkknight1213/turbo-turtles.git
     ```
 2. **Navigate to the project directory**:
     ```bash
